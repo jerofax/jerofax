@@ -15,7 +15,7 @@
 </filter>
 </defs>
 <style>
-:root{--bg:#f6f5f1;--ink:#1f2328;--hist:#8c959f;--hist-op:.6;--red:#e5383b;--shadow:#000;--shadow-op:.35}
+:root{--bg:#ffffff;--ink:#1f2328;--hist:#8c959f;--hist-op:.6;--red:#e5383b;--shadow:#000;--shadow-op:.35}
 @media (prefers-color-scheme:dark){:root{--bg:#0d1117;--ink:#f0f6fc;--hist:#f0f6fc;--hist-op:.4;--red:#ff4d4f;--shadow:#fff;--shadow-op:.45}}
 .bg{fill:var(--bg)}
 .c,.m,.ring,.tan,.p{animation-duration:16s;animation-iteration-count:infinite;animation-timing-function:ease-in-out;animation-fill-mode:both}
