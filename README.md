@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Dos puntos en el plano; una tras otra se trazan curvas rojas que pasan por ambos y se marca su mínimo" width="100%">
+  <img src="https://raw.githubusercontent.com/jerofax/jerofax/main/banner.svg?v=2" alt="Dos puntos en el plano; una tras otra se trazan curvas rojas que pasan por ambos y se marca su mínimo" width="100%">
 </p>
 
 ## Hola, soy Jerónimo 👋
