@@ -1,16 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.svg" alt="Dos puntos en el plano; una tras otra se trazan curvas rojas que pasan por ambos y se marca su mínimo" width="100%">
+</p>
 
-<!--
-**jerofax/jerofax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola, soy Jerónimo 👋
 
-Here are some ideas to get you started:
+Estudio la forma de las cosas: en las matemáticas, en el código y en las ideas.
+Tengo experiencia en docencia técnica, análisis de datos y computación científica, y desarrollo una línea de investigación en matemáticas experimentales.
+Estoy abierto a prácticas, colaboraciones y proyectos, tanto en la industria como en investigación. Si algo de esto te interesa, escríbeme con confianza.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Enfoques actuales
+
+- 🔬 **Explog**: investigación en matemáticas experimentales sobre el flujo de Ricci ([explog.xyz](https://explog.xyz)).
+- 🧠 Machine learning científico, en especial *Physics-Informed Neural Networks* (PINNs), y computación cuántica.
+- 📈 Optimización no lineal aplicada a energías renovables y modelamiento matemático.
+- 👨‍🏫 Diseño y dicto cursos de Python, R, MATLAB y Excel para la comunidad universitaria en la Biblioteca Efe Gómez.
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,matlab,postgres,ts,react,astro,tailwind,git,linux&theme=dark" alt="Python, R, MATLAB, PostgreSQL, TypeScript, React, Astro, Tailwind CSS, Git, Linux">
+</p>
+
+### Proyecto destacado
+
+- **[jerofax.github.io](https://github.com/jerofax/jerofax.github.io)**: mi portafolio personal, hecho con Astro, con notas en Markdown y LaTeX. Está publicado en [jerofax.github.io](https://jerofax.github.io).
+
+### Contacto
+
+- 📫 [jeronimorestreporamirez2007@gmail.com](mailto:jeronimorestreporamirez2007@gmail.com)
+- 🌐 [jerofax.github.io](https://jerofax.github.io)
+- 📍 Medellín, Colombia
